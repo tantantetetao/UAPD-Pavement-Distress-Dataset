@@ -1,2 +1,3 @@
 # UAPD-pavement-distress-dataset
-UAV Asphalt Pavement Distress Dataset
+UAPD(UAV Asphalt Pavement Distress Dataset) has been released for community!
+Pavement distress images captured via Unmanned Aerial Vehicle(UAV)
