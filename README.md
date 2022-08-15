@@ -41,6 +41,7 @@ Citation
 If you use our dataset in your research, the citation can be placed as:
 1.Junqing Zhu, Jingtao Zhong, Tao Ma, Xiaoming Huang, Weiguang Zhang, Yang Zhou, Pavement distress detection using convolutional neural networks with images captured via UAV, Automation in Construction, Vol.133, 2022, https://doi.org/10.1016/j.autcon.2021.103991.
 2.Jingtao Zhong, Junqing Zhu, Ju Huyan, Tao Ma, Weiguang Zhang, Multi-scale feature fusion network for pixel-level pavement distress detection, Automation in Construction, Vol.141, 2022, https://doi.org/10.1016/j.autcon.2022.104436.
+
 Copy Right
 ----------
 This Dataset has been released for public use.
